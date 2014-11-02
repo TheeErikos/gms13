@@ -1,0 +1,29 @@
+
+
+Starting up. 21:26.41
+---------------------
+[21:26:41]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[21:26:41]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[21:26:41]MISC: Adding game mode traitor (traitor) to configuration.
+[21:26:41]MISC: Adding game mode calamity (calamity) to configuration.
+[21:26:41]MISC: Adding game mode changeling (changeling) to configuration.
+[21:26:41]MISC: Adding game mode cult (cult) to configuration.
+[21:26:41]MISC: Adding game mode extended (extended) to configuration.
+[21:26:41]MISC: Adding game mode heist (heist) to configuration.
+[21:26:41]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[21:26:41]MISC: Adding game mode meteor (meteor) to configuration.
+[21:26:41]MISC: Adding game mode mutiny (mutiny) to configuration.
+[21:26:41]MISC: Adding game mode ninja (ninja) to configuration.
+[21:26:41]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[21:26:41]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[21:26:41]MISC: Adding game mode revolution (revolution) to configuration.
+[21:26:41]MISC: Adding game mode wizard (wizard) to configuration.
+[21:26:41]MISC: Unknown setting in configuration: 'metroid_delay'
+[21:26:42]ADMIN: Loading jobban_rank
+[21:26:42]ADMIN: jobban_keylist was empty
+[21:26:42]ADMIN: Loading Banlist
+[21:26:42]ADMIN: Banlist is empty.
+[21:26:42]ADMIN: Banlist missing base dir.
+[21:26:42]DEBUG: Rebuilding Master Controller
+[21:26:46]ACCESS: Login: DaGilbert/(DaGilbert) from 127.0.0.1-3415616818 || BYOND v506
+[21:26:57]ACCESS: Logout: DaGilbert/(DaGilbert)
