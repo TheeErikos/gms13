@@ -1,0 +1,37 @@
+Captain=1
+Head of Personnel=1
+Head of Security=1
+Chief Engineer=1
+Research Director=1
+Chief Medical Officer=1
+
+Station Engineer=5
+Roboticist=1
+
+Medical Doctor=4
+Geneticist=2
+Virologist=2
+
+Scientist=3
+Chemist=2
+
+Bartender=1
+Botanist=2
+Chef=2
+Janitor=2
+Quartermaster=1
+Shaft Miner=4
+
+Warden=1
+Detective=2
+Security Officer=8
+
+Assistant=-1
+Atmospheric Technician=2
+Cargo Technician=4
+Chaplain=1
+Lawyer=2
+Librarian=1
+
+AI=1
+Cyborg=2
