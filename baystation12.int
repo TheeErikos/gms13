@@ -1,9 +1,9 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\world.dm
+WINDOW: code\world.dm;code\global.dm;code\hub.dm;code\names.dm;code\setup.dm;code\stylesheet.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\game code\game\gamemodes code\game\gamemodes\extended code\game\objects\items code\game\objects\items\weapons code\modules code\modules\organs 
+DIR: code\game\gamemodes code\game\gamemodes\extended code\game\objects\items code\game\objects\items\weapons code\modules\organs 
 FILE: code\world.dm
 LAST_COMPILE_TIME: 1414950634
 AUTO_FILE_DIR: OFF
