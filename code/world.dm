@@ -286,7 +286,7 @@ var/world_topic_spam_protect_time = world.timeofday
 	if (config && config.server_name)
 		s += "<b>[config.server_name]</b> &#8212; "
 
-	s += "<a href=\"http://baystation12.net/wiki/index.php/Main_Page\"><h1><b>[station_name()]</h1>/a><h2>Medium-Heavy Roleplay, Custom Code, 24/7, NEW.</b></h2>";
+	s += "<a href=\"http://baystation12.net/wiki/index.php/Main_Page\"><h1><b>[station_name()]</h1><h2>Medium-Heavy Roleplay, Custom Code, 24/7, NEW.</b></h2>";
 	s += " ("
 	s += "Baystation12 Modified, " //Change this to wherever you want the hub to link to.
 	s += "GammaV1_0"
