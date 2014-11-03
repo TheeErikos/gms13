@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\global.dm;code\world.dm
+WINDOW: icons\misc\fullscreen.dmi;code\global.dm;code\world.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\game\gamemodes code\game\gamemodes\extended code\game\objects\items code\game\objects\items\weapons code\modules\organs 
+DIR: code code\game\gamemodes code\game\gamemodes\extended code\game\objects\items code\game\objects\items\weapons code\modules\organs icons icons\misc 
 FILE: code\world.dm
-LAST_COMPILE_TIME: 1414970943
+LAST_COMPILE_TIME: 1414974164
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
