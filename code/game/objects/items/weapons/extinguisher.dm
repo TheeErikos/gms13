@@ -1,6 +1,6 @@
 /obj/item/weapon/extinguisher
 	name = "fire extinguisher"
-	desc = "A traditional red fire extinguisher."
+	desc = "A very special red fire extinguisher."
 	icon = 'icons/obj/items.dmi'
 	icon_state = "fire_extinguisher0"
 	item_state = "fire_extinguisher"

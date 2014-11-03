@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: icons\misc\fullscreen.dmi;code\global.dm;code\world.dm;code\datums\datacore.dm;code\game\sound.dm;code\game\objects\items\devices\whistle.dm
+WINDOW: code\game\objects\items\weapons\extinguisher.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\datums code\game code\game\gamemodes\extended code\game\objects code\game\objects\items code\game\objects\items\devices code\modules\organs icons icons\misc maps maps\RandomZLevels sound sound\piano tools 
-FILE: code\world.dm
-LAST_COMPILE_TIME: 1415034422
+DIR: code code\game code\game\gamemodes\extended code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules\organs icons\misc maps\RandomZLevels sound\piano 
+FILE: code\game\objects\items\weapons\extinguisher.dm
+LAST_COMPILE_TIME: 1415054268
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
