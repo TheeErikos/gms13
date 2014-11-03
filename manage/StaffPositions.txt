@@ -1,0 +1,7 @@
+
+Coder : 1
+Designer : 1
+Customer Support : 1
+Manager : 1
+Moderator : 3
+Site Admin: 1
