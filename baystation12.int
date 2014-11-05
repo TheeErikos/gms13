@@ -1,10 +1,10 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\world.dm
+WINDOW: code\game\objects\items\weapons\extinguisher.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\game\gamemodes\extended code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules\organs icons icons\misc icons\obj maps\RandomZLevels sound\piano 
-FILE: code\world.dm
+DIR: code code\game code\game\gamemodes\extended code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules\organs icons icons\obj maps\RandomZLevels sound\piano 
+FILE: code\game\objects\items\weapons\extinguisher.dm
 LAST_COMPILE_TIME: 1415199881
 AUTO_FILE_DIR: OFF
 */
