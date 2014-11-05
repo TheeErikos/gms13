@@ -292,8 +292,8 @@ var/world_topic_spam_protect_time = world.timeofday
 	s += "GammaV1_0"
 //	s += "Default"  //Replace this with something else. Or ever better, delete it and uncomment the game version.
 	s += ")<br>"
-	s += "<b><a href=http://wiki.baystation12.net/index.php/Main_Page>Wiki</a> | <a href=http://gammastation13.net>Website</a> | <a href=http://gammastation13.net/index.php?action=forum>Forums</a></b>"
-	s += ""
+	s += "<a href=http://gammastation13.net><b> Website </b></a>|<a href=http://gammastation13.net/index.php?action=forum><b> Forums </b></a>"
+	s += "<a href=http://wiki.baystation12.net/><b>Wiki</b></a>"
 
 	var/list/features = list()
 
