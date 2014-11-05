@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\world.dm;icons\obj\items.dmi;wip\dagilbert\sources\fireextngiusher\fire_extngiusher_blue00.dmi;wip\dagilbert\sources\fireextngiusher\fire_extngiusher_blue01.dmi
+WINDOW: code\world.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code\game\gamemodes\extended code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules\organs icons\obj maps\RandomZLevels sound\piano wip wip\dagilbert wip\dagilbert\sources wip\dagilbert\sources\fireextngiusher 
-FILE: wip\dagilbert\sources\fireextngiusher\fire_extngiusher_blue01.dmi
-LAST_COMPILE_TIME: 1415143454
+DIR: code code\game\gamemodes\extended code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules\organs icons\obj maps\RandomZLevels sound\piano wip wip\dagilbert wip\dagilbert\sources wip\dagilbert\sources\fireextngiusher 
+FILE: code\world.dm
+LAST_COMPILE_TIME: 1415147582
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
