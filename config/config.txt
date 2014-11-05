@@ -172,10 +172,10 @@ USEWHITELIST
 SERVER 192.184.82.233:9550
 
 ## forum address
-# FORUMURL http://example.com
+#FORUMURL http://gammastation13.net/
 
 ## Wiki address
-WIKIURL http://baystation12.net/wiki/
+WIKIURL http://wiki.baystation12.net/
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
 # BANAPPEALS http://example.com
