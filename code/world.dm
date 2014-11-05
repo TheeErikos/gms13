@@ -286,14 +286,14 @@ var/world_topic_spam_protect_time = world.timeofday
 	if (config && config.server_name)
 		s += "<b>[config.server_name]</b> &#8212; "
 
-	s += "<h2><font color=green><b>[station_name()]</b></font></h2><h3>Heavy Roleplay, Custom Code, 24/7, New.</h3>";
+	s += "<h2><font color=green><b>[station_name()]</b></font></h2><h3>Heavy Roleplay, Custom Code, 24/7, New.</h3><img src=http://i.imgur.com/l32AdsP.gif>";
 //	s += ""
 	s += "(Baystation12 Modified, " //Change this to wherever you want the hub to link to.
 	s += "GammaV1_0"
 //	s += "Default"  //Replace this with something else. Or ever better, delete it and uncomment the game version.
 	s += ")<br>"
 	s += "<b><a href=http://wiki.baystation12.net/index.php/Main_Page>Wiki</a> | Website | Forums</b>"
-	s += "<img src=http://i.imgur.com/l32AdsP.gif>"
+	s += ""
 
 	var/list/features = list()
 
