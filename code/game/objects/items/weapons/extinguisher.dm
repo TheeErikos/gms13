@@ -18,7 +18,7 @@
 	var/safety = 1
 	var/sprite_name = "fire_extinguisher"
 
-	/obj/item/weapon/extinguisherlarge
+/obj/item/weapon/extinguisherlarge
 	name = "large fire extinguisher"
 	desc = "A very special large blue fire extinguisher."
 	icon = 'icons/obj/items.dmi'
