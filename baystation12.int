@@ -3,7 +3,7 @@
 MAP_ICON_TYPE: 0
 WINDOW: code\game\objects\items\weapons\extinguisher.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\game code\game\gamemodes code\game\gamemodes\extended code\game\gamemodes\mutiny code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules\organs maps\RandomZLevels sound\piano 
+DIR: code code\game code\game\gamemodes code\game\gamemodes\extended code\game\gamemodes\mutiny code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\game\objects\structures code\modules\organs maps\RandomZLevels sound\piano 
 FILE: code\game\objects\items\weapons\extinguisher.dm
 LAST_COMPILE_TIME: 1415199881
 AUTO_FILE_DIR: OFF
