@@ -11,9 +11,29 @@
 	throw_speed = 2
 	throw_range = 10
 	force = 10.0
-	matter = list("metal" = 90)
+	matter = list("metal" = )
 	attack_verb = list("slammed", "whacked", "bashed", "thunked", "battered", "bludgeoned", "thrashed")
 	var/max_water = 50
+	var/last_use = 1.0
+	var/safety = 1
+	var/sprite_name = "fire_extinguisher"
+
+	/obj/item/weapon/extinguisherlarge
+	name = "large fire extinguisher"
+	desc = "A very special large blue fire extinguisher."
+	icon = 'icons/obj/items.dmi'
+	icon_state = "fire_extinguisher0"
+	item_state = "fire_extinguisher"
+	hitsound = 'sound/weapons/smash.ogg'
+	flags = FPRINT | TABLEPASS | CONDUCT
+	throwforce = 15
+	w_class = 3.0
+	throw_speed = 1
+	throw_range = 7
+	force = 15.0
+	matter = list("metal" = 170)
+	attack_verb = list("slammed", "whacked", "bashed", "thunked", "battered", "bludgeoned", "thrashed")
+	var/max_water = 100
 	var/last_use = 1.0
 	var/safety = 1
 	var/sprite_name = "fire_extinguisher"
