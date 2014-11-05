@@ -1,11 +1,9 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\world.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\game\gamemodes\extended code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules\organs icons\obj maps\RandomZLevels sound\piano wip wip\dagilbert wip\dagilbert\sources wip\dagilbert\sources\fireextngiusher 
-FILE: code\world.dm
-LAST_COMPILE_TIME: 1415149207
+DIR: code code\game code\game\gamemodes\extended code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules\organs icons\misc maps\RandomZLevels sound\piano 
+LAST_COMPILE_TIME: 1415054268
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
