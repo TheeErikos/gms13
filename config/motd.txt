@@ -1,23 +1,11 @@
-<h2>Welcome to Gamma 13!</h2>
+<h1>Welcome to Gamma Station 13!</h1>
 
 <i>This server is running a modified <a href="http://baystation12.net/">Baystation 12's</a> modification of the <a href="http://ss13.eu/">/tg/station13</a> SS13 code.</i>
 <br><br>
 <strong>Changelog:</strong> <a href="https://github.com/dagilbert/gms13/commits/master">https://github.com/dagilbert/gms13/commits/master</a>
 <br>
-<h1>Server Rules</h1>
+<strong>Server Rules:</strong> <a href="http://gammastation13.net/index.php?topic=3.msg3;topicseen#new">http://gammastation13.net/index.php?topic=3.msg3;topicseen#new</a>
 <br>
-<i>- Don't be a dick.
-This is a rule that should need no explanation. Don't ruin another person's fun in-game just because you can, and don't be mean in OOC chat or other places.
+<h1>New Server Website! Click <a href="http://gammastation13.net/index.php">Here!</a></h1>
 <br>
--Act in-character, and play a character that is realistic and authentic.
-Generally, avoid psychopaths and insane characters. Also keep in mind what would be a realistic thing for your character to do. A scientist with no weapons training is not going to be rushing armed boarders with a toolbox. Also, do not kill yourself without EXTREMELY good reason.
-<br>
--Avoid antagonizing as non-antagonist
-No bashing in heads, unless you're an antagonist role or it's self-defense. Try to avoid creating situations in which you're performing other massive crimes and generally acting as an antagonist would, again unless you're an antagonist or under extreme circumstances.
-<br>
--No erotic roleplay
-This should be self explanatory. Anything that you wouldn't be comfortable doing in a public park, don't do on the server.
-<br>
--Follow Mode Specific Rules
-Another rather self-explanatory rule. Just make sure you read these and follow them, because these are sometimes overlooked by players.
-</i>
+Have Fun!
