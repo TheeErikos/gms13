@@ -286,7 +286,7 @@ var/world_topic_spam_protect_time = world.timeofday
 	if (config && config.server_name)
 		s += "<b>[config.server_name]</b> &#8212; "
 
-	s += "<h2><font color=green><b>[station_name()]</b></font></h2><h3>Heavy Roleplay, Custom Code, 24/7, New.</h3><img src=http://i.imgur.com/pxgwDW2.gif>";
+	s += "<h1><font color=green><b>[station_name()]</b></font></h1><h3>Heavy Roleplay, Custom Code, 24/7, New.</h3><img src=http://i.imgur.com/pxgwDW2.gif>";
 	s += "<a href=http://gammastation13.net>Website</a>"
 	s += " | " //Change this to wherever you want the hub to link to.
 	s += "<a href=http://gammastation13.net/index.php?action=forum>Forums</a>"
