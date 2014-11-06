@@ -5,7 +5,7 @@ WINDOW: code\world.dm
 LAST_COMPILE_VERSION: 506.1247
 DIR: code code\_onclick\hud code\controllers code\defines code\game\gamemodes\mutiny\directives code\game\objects\items code\game\objects\items\weapons code\game\objects\structures interface 
 FILE: code\world.dm
-LAST_COMPILE_TIME: 1415290198
+LAST_COMPILE_TIME: 1415292037
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
