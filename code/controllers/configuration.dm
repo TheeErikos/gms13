@@ -85,6 +85,7 @@
 	var/banappeals
 	var/wikiurl
 	var/forumurl
+	var/rulesurl
 
 	//Alert level description
 	var/alert_desc_green = "All threats to the station have passed. Security may not have weapons visible, privacy laws are once again fully enforced."

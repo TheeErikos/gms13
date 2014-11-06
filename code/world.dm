@@ -291,9 +291,9 @@ var/world_topic_spam_protect_time = world.timeofday
 	s += " | " //Change this to wherever you want the hub to link to.
 	s += "<a href=http://gammastation13.net/index.php?action=forum>Forums</a>"
 	s += " | "  //Replace this with something else. Or ever better, delete it and uncomment the game version.
-	s += "<a href=http://wiki.baystation12.net/>Wiki</a>"
-	s += " | "
-	s += "<a href=https://github.com/dagilbert/gms13>Custom Code</a>"
+	s += "<a href=http://wiki.baystation12.net/>Wiki</a> | <a href=https://github.com/dagilbert/gms13>Custom Code</a>"
+//	s += "  "
+//	s += ""
 
 	var/list/features = list()
 

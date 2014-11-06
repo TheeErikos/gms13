@@ -28,7 +28,13 @@
 	set name = "Rules"
 	set desc = "Show Server Rules."
 	set hidden = 1
-	src << browse(file(RULES_FILE), "window=rules;size=480x320")
+	if( config.rulesurl )
+		if(alert("This will open the Rules in your browser. Are you sure?",,"Yes","No")=="No")
+			return
+		src << link(config.rulesurl)
+	else
+		src << "\red The Rules URL is not set in the server configuration."
+	return
 #undef RULES_FILE
 
 /client/verb/hotkeys_help()
