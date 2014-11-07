@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\world.dm;code\setup.dm;code\controllers\hooks.dm;code\global.dm;code\stylesheet.dm;code\__HELPERS\global_lists.dm;code\__HELPERS\text.dm;code\ATMOSPHERICS\components\trinary_devices\filter.dm;code\ATMOSPHERICS\components\trinary_devices\mixer.dm;code\game\gamemodes\gameticker.dm;code\hub.dm
+WINDOW: code\world.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\game code\game\gamemodes code\game\gamemodes\mutiny\directives 
-FILE: code\game\gamemodes\gameticker.dm
-LAST_COMPILE_TIME: 1415318052
+DIR: code code\__HELPERS code\_onclick\hud code\ATMOSPHERICS code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game code\game\gamemodes code\game\gamemodes\mutiny\directives 
+FILE: code\world.dm
+LAST_COMPILE_TIME: 1415350506
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
