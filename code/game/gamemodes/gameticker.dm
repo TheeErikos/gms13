@@ -44,7 +44,8 @@ var/global/datum/controller/gameticker/ticker
 	/*'sound/music/halloween/skeletons.ogg',\
 	'sound/music/halloween/halloween.ogg',\
 	'sound/music/halloween/ghosts.ogg'*/
-	'sound/music/title2.ogg') //Ground Control to Major Tom, this song is cool, what's going on?
+	'sound/music/title2.ogg',\
+	'sound/music/title1.ogg') //Ground Control to Major Tom, this song is cool, what's going on?
 	do
 		pregame_timeleft = 180
 		world << "<B><FONT color='blue'>Welcome to the pre-game lobby!</FONT></B>"
