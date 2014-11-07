@@ -286,14 +286,14 @@ var/world_topic_spam_protect_time = world.timeofday
 	if (config && config.server_name)
 		s += "<b>[config.server_name]</b> &#8212; "
 
-	s += "<h2><font color=green><b>[station_name()]</b></font></h2>Custom Code, 24/7, Medium-Heavy Roleplay, Updated, UK.<img src=http://i.imgur.com/pxgwDW2.gif>";
+	s += "<font color=green><b>[station_name()]</b></font>";
+	s += "Custom Code, 24/7, Medium-Heavy Roleplay, Updated, UK."
 	s += "<a href=http://gammastation13.net>Website</a>"
-	s += " | " //Change this to wherever you want the hub to link to.
+	s += " | "
 	s += "<a href=http://gammastation13.net/index.php?action=forum>Forums</a>"
-	s += " | "
-	s += "<a href=http://wiki.baystation12.net/>Wiki</a>"
-	s += " | "
-	s += "<a href=https://github.com/dagilbert/gms13>Custom Code</a>"
+	s += "<img src=http://i.imgur.com/pxgwDW2.gif>"
+	s += ""
+	s += ""
 
 	var/list/features = list()
 
