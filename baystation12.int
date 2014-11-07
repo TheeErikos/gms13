@@ -5,7 +5,7 @@ WINDOW: code\world.dm
 LAST_COMPILE_VERSION: 506.1247
 DIR: code code\__HELPERS code\_onclick\hud code\ATMOSPHERICS code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game code\game\gamemodes code\game\gamemodes\mutiny\directives 
 FILE: code\world.dm
-LAST_COMPILE_TIME: 1415350506
+LAST_COMPILE_TIME: 1415351937
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS

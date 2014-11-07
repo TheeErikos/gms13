@@ -286,14 +286,14 @@ var/world_topic_spam_protect_time = world.timeofday
 	if (config && config.server_name)
 		s += "<b>[config.server_name]</b> &#8212; "
 
-	s += "<font color=green><b>[station_name()]</b></font>";
-	s += "Custom Code, 24/7, Medium-Heavy Roleplay, Updated, UK."
-	s += "<a href=http://gammastation13.net>Website</a>"
+	s += "<h2><font color=green><b>[station_name()]</b></font></h2>";
+	s += "Custom Code, 24/7, Medium-Heavy Roleplay, Updated, UK.<br>"
+	s += "<a href=http://goo.gl/JFra0l>Website</a>"
 	s += " | "
-	s += "<a href=http://gammastation13.net/index.php?action=forum>Forums</a>"
+	s += "<a href=http://goo.gl/PJItxM>Forums</a>"
 	s += "<img src=http://i.imgur.com/pxgwDW2.gif>"
-	s += ""
-	s += ""
+//	s += ""
+//	s += ""
 
 	var/list/features = list()
 
