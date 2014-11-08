@@ -290,8 +290,8 @@ var/world_topic_spam_protect_time = world.timeofday
 	s += "Custom Code, 24/7, Medium-Heavy Roleplay, Updated, UK.<br>"
 	s += "<a href=http://goo.gl/JFra0l>Website</a>"
 	s += " | "
-	s += "<a href=http://goo.gl/PJItxM>Forums</a>"
-	s += "<img src=http://i.imgur.com/pxgwDW2.gif>"
+	s += "<a href=http://goo.gl/PJItxM>Forums</a><br>"
+	s += "<img src=http://i.imgur.com/pxgwDW2.gif><br>"
 //	s += ""
 //	s += ""
 
