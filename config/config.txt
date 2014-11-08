@@ -172,7 +172,7 @@ USEWHITELIST
 SERVER 192.184.82.233:9550
 
 ## forum address
-#FORUMURL http://gammastation13.net/
+FORUMURL http://gammastation13.net/index.php?action=forum
 
 RULESURL http://gammastation13.net/index.php?topic=3.msg3;topicseen#new
 
