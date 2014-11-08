@@ -339,9 +339,6 @@
 				if ("forumurl")
 					config.forumurl = value
 
-				if ("rulesurl")
-					config.forumurl = value
-
 				if ("guest_jobban")
 					config.guest_jobban = 1
 
