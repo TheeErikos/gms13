@@ -288,11 +288,11 @@ var/world_topic_spam_protect_time = world.timeofday
 
 	s += "<h2><font color=green>[station_name()]</font></h2>";
 	s += "Custom Code, 24/7, Roleplay, UK.<br>"
-	s += "<a href=http://goo.gl/JFra0l>Website</a>"
+	s += "| <a href=http://goo.gl/JFra0l>Website</a>"
 	s += " | "
 	s += "<a href=http://goo.gl/PJItxM>Forums</a>"
 	s += " | "
-	s += "<a href=http://goo.gl/NZsjVd>TS3</a>"
+	s += "<a href=http://goo.gl/NZsjVd>TS3</a> |"
 	s += "<img src=http://i.imgur.com/pxgwDW2.gif><br>"
 
 	var/list/features = list()
