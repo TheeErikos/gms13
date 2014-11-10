@@ -174,7 +174,7 @@ SERVER 81.4.102.3:9550
 ## forum address
 FORUMURL http://gammastation13.net/index.php?action=forum
 
-RULESURL http://gammastation13.net/index.php?topic=3.msg3;topicseen#new
+RULESURL http://www.gammastation13.net/index.php?topic=2.0
 
 ## Wiki address
 WIKIURL http://wiki.baystation12.net/
@@ -202,7 +202,7 @@ ALLOW_HOLIDAYS
 TICKLAG 0.5
 
 ## Defines if Tick Compensation is used.  It results in a minor slowdown of movement of all mobs, but attempts to result in a level movement speed across all ticks.  Recommended if tickrate is lowered.
-TICKCOMP 1
+TICKCOMP 0
 
 ## Whether the server will talk to other processes through socket_talk
 SOCKET_TALK 0
