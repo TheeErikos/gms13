@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\world.dm;code\modules\clothing\gloves\stungloves.dm;code\controllers\configuration.dm;code\controllers\verbs.dm;code\modules\customitems\item_defines.dm;code\modules\customitems\item_spawning.dm;icons\obj\custom_items.dmi
+WINDOW: code\controllers\master_controller.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game\gamemodes code\game\gamemodes\mutiny\directives code\game\objects code\modules code\modules\admin code\modules\admin\verbs code\modules\clothing\gloves code\modules\customitems code\WorkInProgress code\WorkInProgress\computer3 code\WorkInProgress\computer3\computers icons icons\mob icons\obj 
-FILE: icons\obj\custom_items.dmi
-LAST_COMPILE_TIME: 1415656100
+DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game\gamemodes code\game\gamemodes\mutiny\directives code\game\objects code\modules code\modules\admin code\modules\admin\verbs 
+FILE: code\controllers\master_controller.dm
+LAST_COMPILE_TIME: 1415760399
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
