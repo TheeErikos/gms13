@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\controllers\master_controller.dm
+WINDOW: code\controllers\master_controller.dm;maps\tgstation2.dmm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules code\modules\admin 
-FILE: code\controllers\master_controller.dm
-LAST_COMPILE_TIME: 1415828761
+DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules maps 
+FILE: maps\tgstation2.dmm
+LAST_COMPILE_TIME: 1415830769
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
