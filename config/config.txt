@@ -194,7 +194,7 @@ WIKIURL http://wiki.baystation12.net/
 
 ## Remove the # to show a popup 'reply to' window to every non-admin that recieves an adminPM. 
 ## The intention is to make adminPMs more visible. (although I fnd popups annoying so this defaults to off)
-POPUP_ADMIN_PM
+#POPUP_ADMIN_PM
 
 ## Remove the # to allow special 'Easter-egg' events on special holidays such as seasonal holidays and stuff like 'Talk Like a Pirate Day' :3 YAARRR
 ALLOW_HOLIDAYS
@@ -227,7 +227,7 @@ CONTINUOUS_ROUNDS
 USEALIENWHITELIST
 
 ## Comment this to unrestrict the number of alien players allowed in the round. The number represents the number of alien players for every human player.
-#ALIEN_PLAYER_RATIO 0.4
+#ALIEN_PLAYER_RATIO 0.2
 ##Remove the # to let ghosts spin chairs
 GHOST_INTERACTION
 
