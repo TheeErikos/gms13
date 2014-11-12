@@ -14,7 +14,7 @@ var/global/pipe_processing_killed = 0
 datum/controller/game_controller
 	var/processing = 0
 	var/breather_ticks = 5		//a somewhat crude attempt to iron over the 'bumps' caused by high-cpu use by letting the MC have a breather for this many ticks after every loop
-	var/minimum_ticks = 15		//The minimum length of time between MC ticks
+	var/minimum_ticks = 30		//The minimum length of time between MC ticks
 
 	var/air_cost 		= 0
 	var/sun_cost		= 0
