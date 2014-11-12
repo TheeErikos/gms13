@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\world.dm;code\controllers\configuration.dm;code\controllers\master_controller.dm;maps\tgstation2.dmm
+WINDOW: maps\tgstation2.dmm;code\game\objects\items\weapons\weaponry.dm;code\modules\projectiles\guns\energy\pulse.dm;code\world.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game\gamemodes code\game\gamemodes\mutiny\directives code\game\objects code\modules code\modules\admin code\modules\admin\verbs maps 
-FILE: maps\tgstation2.dmm
-LAST_COMPILE_TIME: 1415817143
+DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\game code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules code\modules\admin code\modules\admin\verbs code\modules\projectiles code\modules\projectiles\guns code\modules\projectiles\guns\energy maps maps\overmap maps\overmap\bearcat maps\RandomZLevels sound sound\weapons 
+FILE: code\world.dm
+LAST_COMPILE_TIME: 1415828761
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
