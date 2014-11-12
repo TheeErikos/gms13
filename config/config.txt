@@ -205,7 +205,7 @@ TICKLAG 0.5
 TICKCOMP 1
 
 ## Whether the server will talk to other processes through socket_talk
-SOCKET_TALK 1
+SOCKET_TALK 0
 
 ## Uncomment this to ban use of ToR
 #TOR_BAN
