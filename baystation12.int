@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\tgstation2.dmm;code\modules\power\smes.dm;icons\obj\storage.dmi;icons\obj\power.dmi
+WINDOW: maps\tgstation2.dmm;icons\obj\power.dmi
 LAST_COMPILE_VERSION: 506.1247
-DIR: code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules code\modules\power icons icons\obj icons\obj\machines maps 
+DIR: code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules icons icons\obj maps 
 FILE: maps\tgstation2.dmm
-LAST_COMPILE_TIME: 1415853597
+LAST_COMPILE_TIME: 1415855806
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
