@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\tgstation2.dmm;code\game\objects\structures\crates_lockers\crates.dm
+WINDOW: code\game\objects\structures\crates_lockers\crates.dm;maps\tgstation2.dmm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\game\objects\structures code\game\objects\structures\crates_lockers code\modules maps 
+DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\game code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\game\objects\items\weapons code\game\objects\structures code\game\objects\structures\crates_lockers maps 
 FILE: maps\tgstation2.dmm
-LAST_COMPILE_TIME: 1415885115
+LAST_COMPILE_TIME: 1415890344
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
