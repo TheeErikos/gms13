@@ -379,7 +379,7 @@
 	language = "Rootspeak"
 	unarmed_type = /datum/unarmed_attack/diona
 	primitive = /mob/living/carbon/alien/diona
-	slowdown = 7
+	slowdown = 1
 	rarity_value = 3
 
 	has_organ = list(
