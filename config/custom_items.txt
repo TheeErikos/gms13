@@ -1,1 +1,1 @@
-ckey: dagilbert name: Nira Xamilph obj/item/weapon/gun/energy/pulse_rifle/M1911
+ckey: name: obj/item/weapon/gun/energy/pulse_rifle/M1911

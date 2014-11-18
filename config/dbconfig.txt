@@ -8,13 +8,13 @@ ADDRESS localhost
 PORT 3306
 
 # Database the population, death, karma, etc. tables may be found in
-DATABASE tgstation
+DATABASE GMS13Data
 
 # Username/Login used to access the database
-LOGIN mylogin
+LOGIN gadmin
 
 # Password used to access the database
-PASSWORD mypassword
+PASSWORD gms139550
 
 # The following information is for feedback tracking via the blackbox server
 FEEDBACK_DATABASE test
@@ -23,4 +23,4 @@ FEEDBACK_PASSWORD mypassword
 
 # Track population and death statistics
 # Comment this out to disable
-#ENABLE_STAT_TRACKING
+ENABLE_STAT_TRACKING
