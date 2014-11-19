@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: interface\skin.dmf;interface\interface.dm;code\world.dm;maps\tgstation2.dmm;code\game\objects\items\apc_frame.dm;code\modules\power\apc.dm;code\datums\datumvars.dm;code\setup.dm;code\names.dm;code\hub.dm;code\global.dm;code\controllers\_DynamicAreaLighting_TG.dm;code\controllers\hooks.dm;code\controllers\autotransfer.dm;code\controllers\configuration.dm;code\controllers\master_controller.dm;code\datums\datacore.dm;code\datums\disease.dm;code\datums\mind.dm;code\modules\admin\admin_verbs.dm;code\modules\admin\verbs\ticklag.dm;code\WorkInProgress\carn\master_controller_old.dm;code\WorkInProgress\carn\master_controller_semi-seq.dm;baystation12.dme;code\modules\mob\mob_movement.dm;code\modules\projectiles\guns\energy\pulse.dm;code\modules\projectiles\guns\projectile\revolver.dm;code\modules\admin\verbs\debug.dm;code\modules\projectiles\guns\energy\stun.dm;code\modules\projectiles\projectile.dm
+WINDOW: interface\skin.dmf;interface\interface.dm;code\world.dm;maps\tgstation2.dmm;code\game\smoothwall.dm;code\game\socket_talk.dm;code\game\sound.dm;code\game\asteroid.dm;code\game\atoms.dm;code\modules\mob\mob_movement.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\datums code\game code\game\area code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\modules code\modules\admin code\modules\admin\DB ban code\modules\admin\verbs code\modules\mob code\modules\power code\modules\projectiles code\modules\projectiles\guns code\modules\projectiles\guns\energy code\modules\projectiles\guns\projectile code\WorkInProgress code\WorkInProgress\carn interface maps sound sound\misc 
-FILE: maps\tgstation2.dmm
-LAST_COMPILE_TIME: 1416429561
+DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\datums code\game\area code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\modules code\modules\mob interface maps 
+FILE: code\modules\mob\mob_movement.dm
+LAST_COMPILE_TIME: 1416432204
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
