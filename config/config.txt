@@ -101,10 +101,10 @@ TRAITOR_SCALING
 OBJECTIVES_DISABLED
 
 ## make ERT's be only called by admins
-#ERT_ADMIN_ONLY
+ERT_ADMIN_ONLY
 
 ## If security is prohibited from being most antagonists
-#PROTECT_ROLES_FROM_ANTAGONIST
+PROTECT_ROLES_FROM_ANTAGONIST
 
 ## Comment this out to stop admins being able to choose their personal ooccolor
 ALLOW_ADMIN_OOCCOLOR
