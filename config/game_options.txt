@@ -4,10 +4,10 @@
 HEALTH_THRESHOLD_SOFTCRIT 0
 
 ## level of health at which a mob becomes unconscious (crit)
-HEALTH_THRESHOLD_CRIT -100
+HEALTH_THRESHOLD_CRIT -50
 
 ## level of health at which a mob becomes dead
-HEALTH_THRESHOLD_DEAD -200
+HEALTH_THRESHOLD_DEAD -150
 
 ## Determines whether bones can be broken through excessive damage to the organ
 ## 0 means bones can't break, 1 means they can
@@ -46,7 +46,7 @@ REVIVAL_BRAIN_LIFE -1
 
 ## These modify the run/walk speed of all mobs before the mob-specific modifiers are applied. 
 RUN_SPEED 4
-WALK_SPEED 3
+WALK_SPEED 2
 
 
 ## The variables below affect the movement of specific mob types.

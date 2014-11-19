@@ -58,6 +58,14 @@
 
 
 
+/obj/item/weapon/gun/energy/pulse_rifle/gilhand
+	name = "Gilberts' Love"
+	desc = "It's not the size of the gun, it's the size of the hole it puts through people."
+	icon_state = "m1911-p"
+	cell_type = "/obj/item/weapon/cell/infinite"
+
+	isHandgun()
+
 /obj/item/weapon/gun/energy/pulse_rifle/M1911
 	name = "m1911-P"
 	desc = "It's not the size of the gun, it's the size of the hole it puts through people."
