@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\datums\modules.dm;code\datums\datumvars.dm;code\game\gamemodes\changeling\changeling.dm;code\TriDimension\Movement.dm;code\modules\mob\mob_movement.dm;code\modules\mob\living\blob\blob.dm;code\modules\mob\living\carbon\carbon.dm;code\modules\mob\living\carbon\human\update_icons.dm;icons\obj\device.dmi;icons\obj\items.dmi;icons\obj\pda.dmi
+WINDOW: code\datums\modules.dm;code\datums\datumvars.dm;code\game\gamemodes\changeling\changeling.dm;code\TriDimension\Movement.dm;code\modules\mob\mob_movement.dm;code\modules\mob\living\blob\blob.dm;code\modules\mob\living\carbon\carbon.dm;icons\obj\pda.dmi
 LAST_COMPILE_VERSION: 506.1247
-DIR: icons icons\obj 
+DIR: code code\datums code\game code\game\gamemodes code\game\gamemodes\changeling code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\blob code\modules\mob\living\carbon code\TriDimension icons icons\obj 
 FILE: icons\obj\pda.dmi
-LAST_COMPILE_TIME: 1416442623
+LAST_COMPILE_TIME: 1416493787
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
