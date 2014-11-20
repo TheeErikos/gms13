@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: interface\skin.dmf;interface\interface.dm;code\world.dm;maps\tgstation2.dmm;code\game\smoothwall.dm;code\game\socket_talk.dm;code\game\sound.dm;code\game\asteroid.dm;code\game\atoms.dm;code\modules\mob\mob_movement.dm
+WINDOW: code\datums\modules.dm;code\datums\datumvars.dm;code\game\gamemodes\changeling\changeling.dm;code\TriDimension\Movement.dm;code\modules\mob\mob_movement.dm;code\modules\mob\living\blob\blob.dm;code\modules\mob\living\carbon\carbon.dm;code\modules\mob\living\carbon\human\update_icons.dm;icons\obj\device.dmi;icons\obj\items.dmi;icons\obj\pda.dmi
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\_onclick\hud code\ATMOSPHERICS\components code\ATMOSPHERICS\components\trinary_devices code\controllers code\datums code\game\area code\game\gamemodes\mutiny\directives code\game\objects code\game\objects\items code\modules code\modules\mob interface maps 
-FILE: code\modules\mob\mob_movement.dm
-LAST_COMPILE_TIME: 1416432204
+DIR: icons icons\obj 
+FILE: icons\obj\pda.dmi
+LAST_COMPILE_TIME: 1416442623
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
