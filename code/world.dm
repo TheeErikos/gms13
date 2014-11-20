@@ -286,8 +286,8 @@ var/world_topic_spam_protect_time = world.timeofday
 	if (config && config.server_name)
 		s += "<b>[config.server_name]</b> &#8212; "
 
-	s += "<strong><font color=green>[station_name()]</font></strong> - ";
-	s += "Custom Map/Code, 24/7, Fun, EU/UK, NoLagg, Medium/Heavy Roleplay.<br>"
+	s += "<h1><font color=green>[station_name()] - RP</font></h1>";
+	s += "Custom Map/Code, 24/7, BS12, EU/UK.<br>"
 	s += "| <a href=http://goo.gl/JFra0l>Website</a>"
 	s += " | "
 	s += "<a href=http://goo.gl/PJItxM>Forums</a>"

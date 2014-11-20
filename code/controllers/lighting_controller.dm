@@ -2,7 +2,7 @@ var/datum/controller/lighting/lighting_controller = new ()
 
 datum/controller/lighting
 	var/processing = 0
-	var/processing_interval = 5	//setting this too low will probably kill the server. Don't be silly with it!
+	var/processing_interval = 8	//setting this too low will probably kill the server. Don't be silly with it!
 	var/process_cost = 0
 	var/iteration = 0
 
